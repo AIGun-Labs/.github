@@ -1,6 +1,6 @@
 # AIGun 🚀
 
-AI-Powered Market Intelligence & Trading.
+AIGun is the world's first AI exchange.
 
 ## Overview
 
