@@ -28,3 +28,4 @@ AIGun addresses these challenges by providing an intelligent layer between raw m
 - [Website](https://www.aigun.ai/)
 - [X](https://x.com/aigun_ai)
 - [Telegram](https://t.me/AIGunX)
+- [Technical Documentation：Amazon Q and Kiro](https://www.notion.so/Technical-Documentation-Amazon-Q-and-Kiro-2b85497132f2804881d8e653c527da46)
